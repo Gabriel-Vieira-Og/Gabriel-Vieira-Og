@@ -20,3 +20,7 @@
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+ <p> Olá, meu nome é Gabriel, tenho 30 anos. Sou Bacharel em Ciências Contábeis e estou em transição para área de programação.</p>
+ <p> Atualmente participando do curso do DevEmDobro sobre FRONT END.</p>
+ <p> Em estudo sobre: <strong>HTML - CSS - JAVASCRIPT</strong>. 
